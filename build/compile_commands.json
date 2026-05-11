@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/akhilesh/Desktop/IWR_Only/build",
+  "command": "/usr/bin/g++  -I/home/akhilesh/Desktop/IWR_Only/include -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data/lib -g -std=gnu++17 -o CMakeFiles/IWR_Only.dir/src/main.cpp.o -c /home/akhilesh/Desktop/IWR_Only/src/main.cpp",
+  "file": "/home/akhilesh/Desktop/IWR_Only/src/main.cpp",
+  "output": "CMakeFiles/IWR_Only.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/akhilesh/Desktop/IWR_Only/build",
+  "command": "/usr/bin/g++  -I/home/akhilesh/Desktop/IWR_Only/include -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data/lib -g -std=gnu++17 -o CMakeFiles/IWR_Only.dir/src/iwr6843_controller.cpp.o -c /home/akhilesh/Desktop/IWR_Only/src/iwr6843_controller.cpp",
+  "file": "/home/akhilesh/Desktop/IWR_Only/src/iwr6843_controller.cpp",
+  "output": "CMakeFiles/IWR_Only.dir/src/iwr6843_controller.cpp.o"
+},
+{
+  "directory": "/home/akhilesh/Desktop/IWR_Only/build",
+  "command": "/usr/bin/g++  -I/home/akhilesh/Desktop/IWR_Only/include -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data/lib -g -std=gnu++17 -o CMakeFiles/IWR_Only.dir/third_party/IWR6843/radar_sensor/IWR6843.cpp.o -c /home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/IWR6843.cpp",
+  "file": "/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/IWR6843.cpp",
+  "output": "CMakeFiles/IWR_Only.dir/third_party/IWR6843/radar_sensor/IWR6843.cpp.o"
+},
+{
+  "directory": "/home/akhilesh/Desktop/IWR_Only/build",
+  "command": "/usr/bin/g++  -I/home/akhilesh/Desktop/IWR_Only/include -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data/lib -g -std=gnu++17 -o CMakeFiles/IWR_Only.dir/third_party/IWR6843/radar_sensor/SensorData.cpp.o -c /home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/SensorData.cpp",
+  "file": "/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/SensorData.cpp",
+  "output": "CMakeFiles/IWR_Only.dir/third_party/IWR6843/radar_sensor/SensorData.cpp.o"
+},
+{
+  "directory": "/home/akhilesh/Desktop/IWR_Only/build",
+  "command": "/usr/bin/g++  -I/home/akhilesh/Desktop/IWR_Only/include -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data/lib -g -std=gnu++17 -o CMakeFiles/IWR_Only.dir/third_party/IWR6843/radar_sensor/sensor_data/UARTFrame.cpp.o -c /home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data/UARTFrame.cpp",
+  "file": "/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data/UARTFrame.cpp",
+  "output": "CMakeFiles/IWR_Only.dir/third_party/IWR6843/radar_sensor/sensor_data/UARTFrame.cpp.o"
+},
+{
+  "directory": "/home/akhilesh/Desktop/IWR_Only/build",
+  "command": "/usr/bin/g++  -I/home/akhilesh/Desktop/IWR_Only/include -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data -I/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data/lib -g -std=gnu++17 -o CMakeFiles/IWR_Only.dir/third_party/IWR6843/radar_sensor/sensor_data/lib/EndianUtils.cpp.o -c /home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data/lib/EndianUtils.cpp",
+  "file": "/home/akhilesh/Desktop/IWR_Only/third_party/IWR6843/radar_sensor/sensor_data/lib/EndianUtils.cpp",
+  "output": "CMakeFiles/IWR_Only.dir/third_party/IWR6843/radar_sensor/sensor_data/lib/EndianUtils.cpp.o"
+}
+]
