@@ -3,7 +3,7 @@
 
 int main() {
 
-    Iwr6843Controller  iwrController("/dev/ttyUSB0", "/dev/ttyUSB1","/home/akhilesh/Desktop/IWR_Only/IWR_Config.cfg");
+    Iwr6843Controller  iwrController("/dev/ttyUSB0", "/dev/ttyUSB1","/home/akhilesh98/Public/Research Thesis/Research-Thesis/IWR_Config.cfg");
     iwrController.initialize_and_capture_Data();
 
     while (true) {
